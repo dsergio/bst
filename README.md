@@ -41,7 +41,6 @@ The root node is stored with the fixed identifier `root`. Newly inserted child n
 - AWS credentials configured locally
 - AWS SDK for Java **1.x** DynamoDB libraries
 
-> The supplied source files do not include a Maven `pom.xml`, Gradle build file, or a pinned SDK version. Add the AWS SDK for Java 1.x DynamoDB dependency to your build, or include the corresponding SDK JARs on the classpath.
 
 ## AWS configuration
 
